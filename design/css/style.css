@@ -1,0 +1,23 @@
+
+body{
+	font: 14px/18px "proxima-nova", Helvetica, arial, sans-serif;
+}
+hr{
+	margin:0 auto !important;
+}
+
+.navbar-toggle{
+	float:left !important;
+}
+.navbar-inverse{
+	background-color: #3399cc !important;
+	 color: #fff !important;
+}
+.navbar-brand{
+	color: #ffffff !important;
+}
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+  color: #333 !important;
+
+}
